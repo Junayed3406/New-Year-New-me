@@ -119,7 +119,12 @@ p {
   line-height: 28px;
   color: #444343;
 }
-
+.year .year-box-two ul li i {
+  color: greenyellow;
+  font-size: 18px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
 .my-plan {
   width: 100%;
   height: 300px;
